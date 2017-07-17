@@ -78,7 +78,8 @@ set incsearch " Vai posicionando o curso assim que a busca vai sendo digitada.
 " Fonte e janela:
 set guifont=consolas:h10
 set encoding=utf-8   " Guarante que o arquivo vai ser salvo em utf-8
-set lines=36 columns=142
+" set lines=36
+" set columns=142
 set wildmenu    " Habilita um menu de autocomplete para a busca
 set nowrap      " Coloca quebra visual da linha muito grande.
 
